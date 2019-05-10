@@ -17,7 +17,7 @@ public class TheNameGameTest {
     }
 
     @Test
-    public void createSongElijah() {
+    public void createSongElijah(){
         String StephenSong = "Elijah, Elijah, bo-belijah\n" +
                 "Banana-fana fo-felijah\n" +
                 "Fee-fi-mo-melijah\n" +
